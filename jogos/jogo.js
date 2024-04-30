@@ -11,5 +11,5 @@ const jump = () => {
 
 const loop = setInterval( () => {
 
-    const pipePosition = pipe 
+    const pipePosition = pipe.offsetLeft;
 })
