@@ -9,7 +9,7 @@
                margin: 0 auto;
                position: relative;
                overflow: hidden;
-               background: linear-gradient(#ff0000,#e0f6ff);
+               background: linear-gradient(#000000,#000000);
     }
    .pipe{
        position: absolute;
@@ -30,7 +30,7 @@
    
    .clouds{
        position: absolute;
-       width: 550px;
+       width: 200px;
        animation: clouds-animation 20s infinite linear;
    }
    
